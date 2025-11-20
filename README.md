@@ -1,4 +1,3 @@
-<img width="917" height="539" alt="image" src="https://github.com/user-attachments/assets/42b4cf7f-ebd1-4d67-939d-170deb9d3a28" /># PBO-pertemuan-empatbelas-18-11-2025
 # Langkah-langkah
 1. Mengkoneksikan Netbeans dengan PostgreSQL.
     
@@ -81,7 +80,62 @@
      <img width="547" height="397" alt="image" src="https://github.com/user-attachments/assets/f7d76a65-9665-4cc6-863c-c52e16e0a8d5" />
 
      Untuk menyimpan, klik ikon dipojok kiri atas, kemudian pilih dimana ingin menyimpan file.
-   - 
+
+     <img width="447" height="301" alt="image" src="https://github.com/user-attachments/assets/22bc6a84-f1ec-4f99-b8f7-ecee6ceefa00" />
+
+   - Upload, klik tombol Upload dan pilih file CSV
+
+      <img width="479" height="572" alt="image" src="https://github.com/user-attachments/assets/f31e65fd-3abb-4ab1-9df0-f9103774b933" />
+
+     <img width="478" height="575" alt="image" src="https://github.com/user-attachments/assets/6b883720-9a38-4dd9-b65d-160219dbc43c" />
+
+3. Tab Tamu
+   - Insert, pada insert jika menggunakan NIK dan nomor kamar yang sama dengan yang sudah ada maka akan muncul pop-up.
+
+     <img width="401" height="480" alt="image" src="https://github.com/user-attachments/assets/5f02f7e8-22dc-4727-9e86-7e2693a4eb79" />
+
+     <img width="400" height="481" alt="image" src="https://github.com/user-attachments/assets/a373b8dd-a895-4588-8eb4-527c3dca7678" />
+
+     Insert akan berhasil jika NIK dan Kamar Dipesan berbeda dengan data sebelumnya.
+
+     <img width="407" height="490" alt="image" src="https://github.com/user-attachments/assets/1c1a4e13-058f-4a2d-b65d-3cc9ef741d6d" />
+
+   - Update
+
+     <img width="385" height="461" alt="image" src="https://github.com/user-attachments/assets/ef33908d-8111-4e11-8e8d-56ec0e64fbee" />
+
+     <img width="386" height="460" alt="image" src="https://github.com/user-attachments/assets/2cce7a8b-4d93-47b8-bf6f-a010f9015359" />
+
+   - Data Tamu juga akan muncul di Tab Pemesanan
+
+     <img width="391" height="339" alt="image" src="https://github.com/user-attachments/assets/bba56960-4369-4268-9da9-c08334b52db0" />
+
+   - Tampilan Jasper Tamu
+
+     <img width="557" height="399" alt="image" src="https://github.com/user-attachments/assets/250b4eec-5794-4c9d-87b5-efa8da1a2dc5" />
+
+   - Untuk menyimpan, klik pojok kiri atas, akan muncul tampilan seperti ini lalu pilih dimana ingin menyimpan file, jangan lupa untuk mengubah "Files of type" nya menjadi CSV.
+  
+     <img width="447" height="301" alt="image" src="https://github.com/user-attachments/assets/744e779f-0d8a-4817-a836-880d4c6c32c7" />
+
+   - Untuk Upload, hapus semua data, dan klik tombol upload lalu pilih file CSV yang ingin diupload.
+
+     <img width="433" height="520" alt="image" src="https://github.com/user-attachments/assets/ab397326-5905-41f2-9b61-f740d6f2992d" />
+
+     <img width="433" height="518" alt="image" src="https://github.com/user-attachments/assets/c2bc84ed-b4b1-4186-bfcf-46d163a0f4db" />
+
+
+
+
+
+
+
+
+
+     
+
+
+
 
 
 
